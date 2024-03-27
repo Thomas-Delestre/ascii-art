@@ -162,5 +162,5 @@ EX: go run . --color=<color> <letters to be colored> "something"
 
 ## Co-developers
 
-- [Delestre Thomas](https://github.com/Thomas-Delestre)
+- [Delemos Dit Pereira Brice](https://github.com/BriceDelemosDitPereira)
 - [Marchais Mickael](https://github.com/Jeancrock)
